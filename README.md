@@ -48,10 +48,7 @@
 
 ---
 
-### 🐍 Contribution Snake:
-![Snake Animation](https://github.com/aayanvikramsingh/aayanvikramsingh/blob/output/snake.svg)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=aayanvikramsingh&icon=6&color=9)](https://visitcount.itsvg.in)
 
