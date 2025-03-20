@@ -46,11 +46,12 @@
   </tr>
 </table>
 
----
+<div align="center">
 
-
-
-[![](https://visitcount.itsvg.in/api?id=aayanvikramsingh&icon=6&color=9)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/aayanvikramsingh/aayanvikramsingh/blob/output/github-snake-dark.svg)
+
+[![](https://visitcount.itsvg.in/api?id=aayanvikramsingh&label=Profile%20Views&color=9&icon=6)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
