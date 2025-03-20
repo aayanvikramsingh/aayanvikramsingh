@@ -51,5 +51,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=aayanvikramsingh&icon=6&color=9)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/aayanvikramsingh/aayanvikramsingh/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
