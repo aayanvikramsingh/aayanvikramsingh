@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey I am Aayan Vikram Singh!<br>2nd Year B.Tech Student @ PES University.
+#😎 Hey! Aayan Vikram Singh here...
+2nd Year B.Tech Student @ PES University<br>Exploring the depths of technology<br> Looking for Internship Opportunities.
 
 
 ## 🌐 Socials:
